@@ -1,0 +1,13 @@
+package com.ddong.common.exception;
+
+public class SysException {
+    //SPEC_QUERY_BY_CID_EXCPEITON("规格参数查询异常");
+    String msg;
+
+    private  SysException(String msg){
+        this.msg=msg;
+    }
+    public  String getMsg(){
+        return  msg;
+    }
+}

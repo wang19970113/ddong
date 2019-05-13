@@ -1,0 +1,1120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="30c3f25f-a840-4bf4-883b-30045cb9798b" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/ddongparent/target/" />
+    <ignored path="$PROJECT_DIR$/ddong-parent/target/" />
+    <ignored path="$PROJECT_DIR$/ddong-parent/ddong-registry/target/" />
+    <ignored path="$PROJECT_DIR$/ddong-parent/ddong-api-gateway/target/" />
+    <ignored path="$PROJECT_DIR$/ddong-parent/ddong-common/target/" />
+    <ignored path="$PROJECT_DIR$/ddong-parent/ddong-common/ddong-item/target/" />
+    <ignored path="$PROJECT_DIR$/ddong-parent/ddong-common/ddong-item/ddong-item-interface/target/" />
+    <ignored path="$PROJECT_DIR$/ddong-parent/ddong-common/ddong-item/ddong-item-service/target/" />
+    <ignored path=".idea/" />
+    <ignored path="$PROJECT_DIR$/ddong-parent/ddong-regisry/target/" />
+    <ignored path="$PROJECT_DIR$/demo/target/" />
+    <ignored path="$PROJECT_DIR$/ddong-api-gateway/target/" />
+    <ignored path="$PROJECT_DIR$/ddong-regisry/target/" />
+    <ignored path="$PROJECT_DIR$/ddong-common/target/" />
+    <ignored path="$PROJECT_DIR$/ddong-item/ddong-item-service/target/" />
+    <ignored path="$PROJECT_DIR$/ddong-item/target/" />
+    <ignored path="$PROJECT_DIR$/ddong-item/ddong-item-interface/target/" />
+    <ignored path="$PROJECT_DIR$/ddong-parent/ddong-common/ddong-utils/target/" />
+    <ignored path="$PROJECT_DIR$/ddong-parent/ddong-item/target/" />
+    <ignored path="$PROJECT_DIR$/ddong-parent/ddong-item/ddong-item-interface/target/" />
+    <ignored path="$PROJECT_DIR$/ddong-parent/ddong-item/ddong-item-service/target/" />
+    <ignored path="$PROJECT_DIR$/ddong-parent/ddong-upload/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="ddong" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="ddong" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="ddong" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="ddong: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="ddong" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="ddong: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="tables" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ddong-parent/ddong-item/ddong-item-service/src/main/java/com/ddong/item/controller/GoodsController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="258">
+              <caret line="53" column="34" lean-forward="true" selection-start-line="53" selection-start-column="34" selection-end-line="53" selection-end-column="34" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+        <option value="spring-beans.schema" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="eb63c777-ff8f-4350-96d7-18cdb3614fa7" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/ddong-parent/ddong-common/ddong-item/ddong-item-service/src/main/java/com/ddong/item/service/CategoryServiceImpl.java" />
+        <option value="$PROJECT_DIR$/ddong-parent/ddong-common/src/main/java/com/ddong/common/pojo/PageResult.java" />
+        <option value="$PROJECT_DIR$/ddong-parent/ddong-common/ddong-utils/src/main/java/com/ddong/utils/pojo/PageResult.java" />
+        <option value="$PROJECT_DIR$/ddong-parent/ddong-common/ddong-utils/pom.xml" />
+        <option value="$PROJECT_DIR$/ddong-parent/ddong-common/ddong-item/ddong-item-service/src/main/java/com/ddong/item/controller/BrandService.java" />
+        <option value="$PROJECT_DIR$/ddong-parent/ddong-common/ddong-item/ddong-item-service/src/main/java/com/ddong/item/service/BrandService.java" />
+        <option value="$PROJECT_DIR$/ddong-parent/ddong-common/ddong-item/ddong-item-interface/src/main/java/com/ddong/item/pojo/TbBrand.java" />
+        <option value="$PROJECT_DIR$/ddong-parent/ddong-common/ddong-item/ddong-item-service/src/main/java/com/ddong/item/mapper/BrandMapper.java" />
+        <option value="$PROJECT_DIR$/ddong-parent/ddong-common/ddong-item/ddong-item-interface/src/main/java/com/ddong/item/pojo/Brand.java" />
+        <option value="$PROJECT_DIR$/ddong-parent/ddong-common/ddong-item/ddong-item-service/pom.xml" />
+        <option value="$PROJECT_DIR$/ddong-parent/ddong-common/ddong-item/ddong-item-service/src/main/java/com/ddong/item/service/BrandServiceImpl.java" />
+        <option value="$PROJECT_DIR$/ddong-parent/ddong-common/ddong-item/ddong-item-service/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/ddong-parent/ddong-common/ddong-item/ddong-item-service/src/main/java/com/ddong/item/controller/BrandController.java" />
+        <option value="$PROJECT_DIR$/ddong-parent/ddong-common/pom.xml" />
+        <option value="$PROJECT_DIR$/ddong-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/ddong-parent/ddong-item/pom.xml" />
+        <option value="$PROJECT_DIR$/ddong-parent/ddong-item/ddong-item-service/pom.xml" />
+        <option value="$PROJECT_DIR$/ddong-parent/ddong-upload/src/main/java/com/ddong/upload/controller/uploadController.java" />
+        <option value="$PROJECT_DIR$/ddong-parent/ddong-item/ddong-item-interface/src/main/java/com/ddong/item/pojo/TbSpecification.java" />
+        <option value="$PROJECT_DIR$/ddong-parent/ddong-upload/pom.xml" />
+        <option value="$PROJECT_DIR$/ddong-parent/ddong-item/ddong-item-service/src/main/java/com/ddong/item/service/SpecService.java" />
+        <option value="$PROJECT_DIR$/ddong-parent/ddong-item/ddong-item-interface/src/main/java/com/ddong/item/pojo/Brand.java" />
+        <option value="$PROJECT_DIR$/ddong-parent/ddong-item/ddong-item-service/src/main/java/com/ddong/item/mapper/SpecMapper.java" />
+        <option value="$PROJECT_DIR$/ddong-parent/ddong-item/ddong-item-service/src/main/java/com/ddong/item/service/SpecServiceImpl.java" />
+        <option value="$PROJECT_DIR$/ddong-parent/ddong-item/ddong-item-interface/src/main/java/com/ddong/item/pojo/Specification.java" />
+        <option value="$PROJECT_DIR$/ddong-parent/ddong-item/ddong-item-interface/src/main/java/com/ddong/item/pojo/TbSpu.java" />
+        <option value="$PROJECT_DIR$/ddong-parent/ddong-item/ddong-item-service/src/main/java/com/ddong/item/mapper/GoodsMapper.java" />
+        <option value="$PROJECT_DIR$/ddong-parent/ddong-item/ddong-item-service/src/main/java/com/ddong/item/mapper/CategoryMapper.java" />
+        <option value="$PROJECT_DIR$/ddong-parent/ddong-item/ddong-item-service/src/main/java/com/ddong/item/mapper/SpuMapper.java" />
+        <option value="$PROJECT_DIR$/ddong-parent/ddong-item/ddong-item-service/src/main/java/com/ddong/item/controller/BrandController.java" />
+        <option value="$PROJECT_DIR$/ddong-parent/ddong-item/ddong-item-service/src/main/java/com/ddong/item/service/BrandService.java" />
+        <option value="$PROJECT_DIR$/ddong-parent/ddong-item/ddong-item-service/src/main/java/com/ddong/item/service/BrandServiceImpl.java" />
+        <option value="$PROJECT_DIR$/ddong-parent/ddong-item/ddong-item-interface/src/main/java/com/ddong/item/pojo/TbSku.java" />
+        <option value="$PROJECT_DIR$/ddong-parent/ddong-item/ddong-item-interface/src/main/java/com/ddong/item/pojo/TbSpuDetail.java" />
+        <option value="$PROJECT_DIR$/ddong-parent/ddong-item/ddong-item-interface/src/main/java/com/ddong/item/pojo/TbStock.java" />
+        <option value="$PROJECT_DIR$/ddong-parent/ddong-item/ddong-item-service/src/main/java/com/ddong/item/controller/SpecController.java" />
+        <option value="$PROJECT_DIR$/ddong-parent/ddong-item/ddong-item-service/src/main/java/com/ddong/item/mapper/BrandMapper.java" />
+        <option value="$PROJECT_DIR$/ddong-parent/ddong-item/ddong-item-interface/src/main/java/com/ddong/item/pojo/Spu.java" />
+        <option value="$PROJECT_DIR$/ddong-parent/ddong-item/ddong-item-service/src/main/java/com/ddong/item/mapper/SpuDetailMapper.java" />
+        <option value="$PROJECT_DIR$/ddong-parent/ddong-item/ddong-item-interface/src/main/java/com/ddong/item/pojo/SpuDetail.java" />
+        <option value="$PROJECT_DIR$/ddong-parent/ddong-item/ddong-item-interface/src/main/java/com/ddong/item/pojo/Sku.java" />
+        <option value="$PROJECT_DIR$/ddong-parent/ddong-item/ddong-item-service/src/main/java/com/ddong/item/mapper/SkuMapper.java" />
+        <option value="$PROJECT_DIR$/ddong-parent/ddong-item/ddong-item-service/src/main/java/com/ddong/item/vo/Skuvo.java" />
+        <option value="$PROJECT_DIR$/ddong-parent/ddong-item/ddong-item-service/src/main/java/com/ddong/item/vo/SpuVo.java" />
+        <option value="$PROJECT_DIR$/ddong-parent/ddong-item/ddong-item-service/src/main/java/com/ddong/item/vo/SkuVo.java" />
+        <option value="$PROJECT_DIR$/ddong-parent/ddong-item/ddong-item-interface/src/main/java/com/ddong/item/pojo/Stock.java" />
+        <option value="$PROJECT_DIR$/ddong-parent/ddong-item/ddong-item-service/src/main/java/com/ddong/item/mapper/StockMapper.java" />
+        <option value="$PROJECT_DIR$/ddong-parent/ddong-common/src/main/java/com/ddong/common/exception/SysException.java" />
+        <option value="$PROJECT_DIR$/ddong-parent/ddong-item/ddong-item-service/src/main/java/com/ddong/item/service/GoodsService.java" />
+        <option value="$PROJECT_DIR$/ddong-parent/ddong-item/ddong-item-service/src/main/java/com/ddong/item/controller/GoodsController.java" />
+        <option value="$PROJECT_DIR$/ddong-parent/ddong-item/ddong-item-service/src/main/java/com/ddong/item/service/GoodsServiceImpl.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../apache-maven-3.6.0" />
+        <option name="userSettingsFile" value="E:\apache-maven-3.6.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="915" />
+    <option name="y" value="170" />
+    <option name="width" value="980" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557656599324" />
+    <property name="database.console.LAST_STATE" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Program Files/TortoiseSVN/bin/svn.exe" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Facets" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.40378863" />
+    <property name="settings.editor.selected.configurable" value="vcs.Subversion" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.ddong.item.mapper" />
+      <recent name="com.ddong.item.service" />
+      <recent name="com.ddong.item.controller" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\IDEAworkspace-2\ddong-parent" />
+      <recent name="E:\IDEAworkspace-2\ddong-parent\ddong-common" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ddong_item_service">
+    <configuration name="DdongUpload" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ddong-upload" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ddong.upload.DdongUpload" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ddong_Registry" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ddong-regisry" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ddong.eureka.Ddong_Registry" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ddong_api" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ddong-api-gateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ddong.api.Ddong_api" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ddong_item_service" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="ddong-item-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ddong.item.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ddong.item.ddong_item_service" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.ddong_item_service" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\wang5\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="30c3f25f-a840-4bf4-883b-30045cb9798b" name="Default Changelist" comment="" />
+      <created>1556093170456</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556093170456</updated>
+      <workItem from="1556093171978" duration="4342000" />
+      <workItem from="1556097891805" duration="2951000" />
+      <workItem from="1556499901981" duration="1026000" />
+      <workItem from="1556500963438" duration="6083000" />
+      <workItem from="1556507371706" duration="2090000" />
+      <workItem from="1556509606728" duration="2582000" />
+      <workItem from="1556516285637" duration="15456000" />
+      <workItem from="1556586084816" duration="4817000" />
+      <workItem from="1556593379030" duration="157000" />
+      <workItem from="1556594426962" duration="1793000" />
+      <workItem from="1556762755711" duration="6860000" />
+      <workItem from="1556781158028" duration="2094000" />
+      <workItem from="1557038199842" duration="4308000" />
+      <workItem from="1557104175082" duration="7548000" />
+      <workItem from="1557127691071" duration="2922000" />
+      <workItem from="1557133396896" duration="10015000" />
+      <workItem from="1557189583489" duration="9804000" />
+      <workItem from="1557212780838" duration="5492000" />
+      <workItem from="1557278145367" duration="925000" />
+      <workItem from="1557286629414" duration="2713000" />
+      <workItem from="1557295650668" duration="10456000" />
+      <workItem from="1557365724949" duration="1989000" />
+      <workItem from="1557574630337" duration="1791000" />
+      <workItem from="1557621311766" duration="395000" />
+      <workItem from="1557623618681" duration="1180000" />
+      <workItem from="1557624830289" duration="1762000" />
+      <workItem from="1557626702274" duration="490000" />
+      <workItem from="1557627222287" duration="480000" />
+      <workItem from="1557642157867" duration="332000" />
+      <workItem from="1557646245660" duration="7038000" />
+    </task>
+    <task id="LOCAL-00001" summary="初始化成功">
+      <created>1556095693594</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1556095693595</updated>
+    </task>
+    <task id="LOCAL-00002" summary="初始化成功">
+      <created>1556098354801</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1556098354801</updated>
+    </task>
+    <task id="LOCAL-00003" summary="初始化成功">
+      <created>1556109393127</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1556109393127</updated>
+    </task>
+    <task id="LOCAL-00004" summary="初始化成功2">
+      <created>1556500142094</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1556500142094</updated>
+    </task>
+    <task id="LOCAL-00005" summary="初始化成功2">
+      <created>1556506966684</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1556506966684</updated>
+    </task>
+    <task id="LOCAL-00006" summary="初始化成功2">
+      <created>1556507045882</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1556507045882</updated>
+    </task>
+    <task id="LOCAL-00007" summary="初始化成功2">
+      <created>1556507093282</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1556507093282</updated>
+    </task>
+    <task id="LOCAL-00008" summary="初始化成功2">
+      <created>1556511737334</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1556511737334</updated>
+    </task>
+    <task id="LOCAL-00009" summary="初始化成功2-可以访问数据">
+      <created>1556525525785</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1556525525785</updated>
+    </task>
+    <task id="LOCAL-00010" summary="初始化成功2-可以访问数据">
+      <created>1556525575161</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1556525575161</updated>
+    </task>
+    <task id="LOCAL-00011" summary="初始化成功2-可以访问数据">
+      <created>1556529019638</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1556529019638</updated>
+    </task>
+    <task id="LOCAL-00012" summary="初始化成功2-可以访问数据">
+      <created>1556542141769</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1556542141770</updated>
+    </task>
+    <task id="LOCAL-00013" summary="初始化成功2-可以访问数据">
+      <created>1556784854608</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1556784854608</updated>
+    </task>
+    <task id="LOCAL-00014" summary="初始化成功2-可以访问数据">
+      <created>1556784901321</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1556784901321</updated>
+    </task>
+    <task id="LOCAL-00015" summary="初始化成功2-可以访问数据">
+      <created>1556784921178</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1556784921178</updated>
+    </task>
+    <task id="LOCAL-00016" summary="初始化成功2-可以访问数据">
+      <created>1557048560433</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1557048560433</updated>
+    </task>
+    <task id="LOCAL-00017" summary="初始化成功2-可以访问数据">
+      <created>1557128162858</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1557128162858</updated>
+    </task>
+    <task id="LOCAL-00018" summary="初始化成功2-可以访问数据">
+      <created>1557190050550</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1557190050551</updated>
+    </task>
+    <task id="LOCAL-00019" summary="初始化成功2-可以访问数据">
+      <created>1557194674647</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1557194674647</updated>
+    </task>
+    <task id="LOCAL-00020" summary="初始化成功2-可以访问数据">
+      <created>1557194760708</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1557194760708</updated>
+    </task>
+    <task id="LOCAL-00021" summary="初始化成功2-可以访问数据">
+      <created>1557649320271</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1557649320271</updated>
+    </task>
+    <task id="LOCAL-00022" summary="初始化成功2-可以访问数据">
+      <created>1557650533615</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1557650533615</updated>
+    </task>
+    <task id="LOCAL-00023" summary="初始化成功2-可以访问数据">
+      <created>1557652931184</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1557652931184</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="119891000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Designer" order="0" />
+      <window_info id="Image Layers" order="1" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info id="Web" order="5" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.2580429" />
+      <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Spring" order="0" weight="0.3262519" />
+      <window_info anchor="bottom" id="Terminal" order="1" />
+      <window_info anchor="bottom" id="Docker" order="2" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" weight="0.32991204" />
+      <window_info anchor="bottom" id="Java Enterprise" order="4" weight="0.329429" />
+      <window_info anchor="bottom" id="Database Changes" order="5" />
+      <window_info anchor="bottom" id="Message" order="6" />
+      <window_info anchor="bottom" id="Find" order="7" weight="0.329429" />
+      <window_info anchor="bottom" id="Run" order="8" weight="0.4612006" />
+      <window_info anchor="bottom" id="Debug" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="12" />
+      <window_info anchor="bottom" id="Run Dashboard" order="13" weight="0.4275256" />
+      <window_info anchor="bottom" id="Database Console" order="14" weight="0.329429" />
+      <window_info anchor="bottom" id="Messages" order="15" weight="0.329429" />
+      <window_info anchor="bottom" id="Version Control" order="16" weight="0.32844576" />
+      <window_info anchor="right" id="Maven" order="0" weight="0.16085792" />
+      <window_info anchor="right" id="Palette" order="1" />
+      <window_info anchor="right" id="Capture Analysis" order="2" />
+      <window_info anchor="right" id="Database" order="3" weight="0.18498659" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Designer" order="0" />
+      <window_info id="Image Layers" order="1" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info id="Web" order="5" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.2647453" />
+      <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Spring" order="0" />
+      <window_info anchor="bottom" id="Terminal" order="1" />
+      <window_info anchor="bottom" id="Docker" order="2" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Java Enterprise" order="4" />
+      <window_info anchor="bottom" id="Database Changes" order="5" />
+      <window_info anchor="bottom" id="Version Control" order="6" weight="0.329429" />
+      <window_info anchor="bottom" id="Message" order="7" />
+      <window_info anchor="bottom" id="Find" order="8" />
+      <window_info anchor="bottom" id="Run" order="9" />
+      <window_info anchor="bottom" id="Debug" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="11" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="12" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="13" />
+      <window_info anchor="right" id="Bean Validation" order="0" />
+      <window_info anchor="right" id="Maven" order="1" weight="0.3297587" />
+      <window_info anchor="right" id="Palette" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Database" order="4" weight="0.3297587" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="7" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="8" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="9" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/../Program Files (x86)/Repositories" />
+      <path value="$PROJECT_DIR$/../Program Files (x86)/Repositories2" />
+      <path value="$PROJECT_DIR$/../wang" />
+      <path value="$PROJECT_DIR$/../Program Files (x86)/changku" />
+      <path value="$PROJECT_DIR$/../Repositories2" />
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="初始化成功" />
+    <MESSAGE value="初始化成功2" />
+    <MESSAGE value="初始化成功2-可以访问数据" />
+    <option name="LAST_COMMIT_MESSAGE" value="初始化成功2-可以访问数据" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="SpringBootApplicationConfigurationType">
+        <watch expression="list" />
+        <watch expression="list" />
+        <watch expression="pageIndex" />
+        <watch expression="pageIndex" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>pageIndex</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/ddong-parent/ddong-common/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="94">
+          <caret line="8" column="13" lean-forward="true" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ddong-parent/ddong-item/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ddong-parent/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-500">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ddong-parent/ddong-upload/src/main/java/com/ddong/upload/config/GlobalCorsConfig.java" />
+    <entry file="file://$PROJECT_DIR$/ddong-parent/ddong-upload/src/main/java/com/ddong/upload/service/UploadServiceImpl.java" />
+    <entry file="file://$PROJECT_DIR$/ddong-parent/ddong-upload/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="15" column="35" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ddong-parent/ddong-api-gateway/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ddong-parent/ddong-upload/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-217" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ddong-parent/ddong-upload/src/main/java/com/ddong/upload/DdongUpload.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="25" lean-forward="true" selection-start-column="25" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ddong-parent/ddong-upload/src/main/java/com/ddong/upload/config/CorsConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ddong-parent/ddong-upload/src/main/java/com/ddong/upload/controller/UploadController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="404">
+          <caret line="44" column="80" lean-forward="true" selection-start-line="44" selection-start-column="80" selection-end-line="44" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ddong-parent/ddong-upload/src/main/java/com/ddong/upload/controller/FastClientImporter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ddong-parent/ddong-item/ddong-item-service/src/main/java/com/ddong/item/service/CategoryService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ddong-parent/ddong-item/ddong-item-service/src/main/java/com/ddong/item/service/CategoryServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="44" column="16" selection-start-line="44" selection-start-column="16" selection-end-line="44" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://d20f8200-358b-4a16-9cb5-174eacaf67b6/schema/ddong/table/tb_spu">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../Localwarehouse/javax/persistence/persistence-api/1.0/persistence-api-1.0.jar!/javax/persistence/Id.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="14" column="22" lean-forward="true" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ddong-parent/ddong-item/ddong-item-service/src/main/java/com/ddong/item/controller/CategoryController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ddong-parent/ddong-common/src/main/java/com/ddong/common/pojo/PageResult.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../Localwarehouse/tk/mybatis/mapper-base/1.0.1/mapper-base-1.0.1.jar!/tk/mybatis/mapper/common/example/SelectByExampleMapper.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="18" column="12" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ddong-parent/ddong-item/ddong-item-service/src/main/java/com/ddong/item/mapper/GoodsMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="46" selection-start-line="5" selection-start-column="46" selection-end-line="5" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/function/Function.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="48" column="6" selection-start-line="48" selection-start-column="6" selection-end-line="48" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/extensions/com.intellij.database/schema/Generate POJOs.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="66" lean-forward="true" selection-start-line="11" selection-end-line="66" />
+          <folding>
+            <element signature="e#0#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ddong-parent/ddong-item/ddong-item-service/src/main/java/com/ddong/item/mapper/CategoryMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="6" column="93" selection-start-line="6" selection-start-column="93" selection-end-line="6" selection-end-column="93" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ddong-parent/ddong-item/ddong-item-service/src/main/java/com/ddong/item/mapper/SpuMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="45" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ddong-parent/ddong-item/ddong-item-interface/src/main/java/com/ddong/item/pojo/Category.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#461#462#0" expanded="true" />
+            <element signature="e#483#484#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ddong-parent/ddong-item/ddong-item-service/src/main/java/com/ddong/item/service/SpecServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret line="10" column="18" lean-forward="true" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#404#405#0" expanded="true" />
+            <element signature="e#461#462#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ddong-parent/ddong-item/ddong-item-service/src/main/java/com/ddong/item/service/SpecService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ddong-parent/ddong-item/ddong-item-interface/src/main/java/com/ddong/item/pojo/Specification.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ddong-parent/ddong-item/ddong-item-service/src/main/java/com/ddong/item/mapper/SpecMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="30" lean-forward="true" selection-start-column="30" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ddong-parent/ddong-item/ddong-item-service/src/main/java/com/ddong/item/controller/SpecController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="22" column="54" selection-start-line="22" selection-start-column="54" selection-end-line="22" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ddong-parent/ddong-item/ddong-item-service/src/main/java/com/ddong/item/service/BrandServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="17" column="17" lean-forward="true" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ddong-parent/ddong-item/ddong-item-interface/src/main/java/com/ddong/item/pojo/Brand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ddong-parent/ddong-item/ddong-item-service/src/main/java/com/ddong/item/mapper/BrandMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="53">
+          <caret line="10" column="47" selection-start-line="10" selection-start-column="47" selection-end-line="10" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ddong-parent/ddong-item/ddong-item-service/src/main/java/com/ddong/item/controller/BrandController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-955">
+          <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ddong-parent/ddong-item/ddong-item-service/src/main/java/com/ddong/item/service/BrandService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ddong-parent/ddong-item/ddong-item-service/src/main/java/com/ddong/item/mapper/SpuDetailMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="57" selection-start-line="5" selection-start-column="57" selection-end-line="5" selection-end-column="57" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ddong-parent/ddong-item/ddong-item-service/src/main/java/com/ddong/item/mapper/SkuMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="30" lean-forward="true" selection-start-column="30" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ddong-parent/ddong-item/ddong-item-interface/src/main/java/com/ddong/item/pojo/Stock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ddong-parent/ddong-item/ddong-item-service/src/main/java/com/ddong/item/mapper/StockMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="49" selection-start-line="5" selection-start-column="49" selection-end-line="5" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ddong-parent/ddong-item/ddong-item-service/src/main/java/com/ddong/item/vo/SpuVo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ddong-parent/ddong-item/ddong-item-interface/src/main/java/com/ddong/item/pojo/Sku.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ddong-parent/ddong-item/ddong-item-service/src/main/java/com/ddong/item/vo/SkuVo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="28" lean-forward="true" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ddong-parent/ddong-common/src/main/java/com/ddong/common/exception/SysException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ddong-parent/ddong-item/ddong-item-service/src/main/java/com/ddong/item/service/GoodsService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ddong-parent/ddong-item/ddong-item-interface/src/main/java/com/ddong/item/pojo/Spu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ddong-parent/ddong-item/ddong-item-interface/src/main/java/com/ddong/item/pojo/SpuDetail.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="13" column="50" selection-start-line="13" selection-start-column="50" selection-end-line="13" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ddong-parent/ddong-item/ddong-item-service/src/main/java/com/ddong/item/service/GoodsServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="96" column="29" selection-start-line="96" selection-start-column="16" selection-end-line="96" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ddong-parent/src/main/resources/app.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ddong-parent/ddong-item/ddong-item-service/src/main/java/com/ddong/item/controller/GoodsController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="53" column="34" lean-forward="true" selection-start-line="53" selection-start-column="34" selection-end-line="53" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.40378863" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.40378863" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>jar包</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.40378863" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.40378863" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>ddong-regisry</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.40378863" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: ch.qos.logback:logback-classic:1.2.3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.40378863" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ddong-api-gateway" />
+        <module name="ddong-common" />
+        <module name="ddong-item-interface" />
+        <module name="ddong-item-service" />
+        <module name="ddong-regisry" />
+        <module name="ddong-upload" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ddong-api-gateway" target="1.8" />
+      <module name="ddong-api-gateway (1)" target="1.8" />
+      <module name="ddong-common" target="1.8" />
+      <module name="ddong-item" target="1.8" />
+      <module name="ddong-item-interface" target="1.8" />
+      <module name="ddong-item-service" target="1.8" />
+      <module name="ddong-parent" target="1.8" />
+      <module name="ddong-regisry" target="1.8" />
+      <module name="ddong-registry" target="1.8" />
+      <module name="ddong-upload" target="1.8" />
+      <module name="ddong-utils" target="1.8" />
+      <module name="demo" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="ddong-api-gateway" options="-parameters" />
+      <module name="ddong-common" options="-parameters" />
+      <module name="ddong-item" options="-parameters" />
+      <module name="ddong-item-interface" options="" />
+      <module name="ddong-item-service" options="-parameters" />
+      <module name="ddong-parent" options="-parameters" />
+      <module name="ddong-regisry" options="-parameters" />
+      <module name="ddong-registry" options="-parameters" />
+      <module name="ddong-upload" options="-parameters" />
+      <module name="ddong-utils" options="-parameters" />
+      <module name="demo" options="-parameters" />
+    </option>
+  </component>
+</project>

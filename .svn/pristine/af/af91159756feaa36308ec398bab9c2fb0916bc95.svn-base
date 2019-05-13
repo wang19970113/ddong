@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ddong-parent/ddong-api-gateway/ddong-api-gateway.iml" filepath="$PROJECT_DIR$/ddong-parent/ddong-api-gateway/ddong-api-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ddong-parent/ddong-common/ddong-common.iml" filepath="$PROJECT_DIR$/ddong-parent/ddong-common/ddong-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ddong-parent/ddong-item/ddong-item.iml" filepath="$PROJECT_DIR$/ddong-parent/ddong-item/ddong-item.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ddong-parent/ddong-item/ddong-item-interface/ddong-item-interface.iml" filepath="$PROJECT_DIR$/ddong-parent/ddong-item/ddong-item-interface/ddong-item-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ddong-parent/ddong-item/ddong-item-service/ddong-item-service.iml" filepath="$PROJECT_DIR$/ddong-parent/ddong-item/ddong-item-service/ddong-item-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ddong-parent/ddong-parent.iml" filepath="$PROJECT_DIR$/ddong-parent/ddong-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ddong-parent/ddong-regisry/ddong-regisry.iml" filepath="$PROJECT_DIR$/ddong-parent/ddong-regisry/ddong-regisry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ddong-parent/ddong-upload/ddong-upload.iml" filepath="$PROJECT_DIR$/ddong-parent/ddong-upload/ddong-upload.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,14 @@
+package com.ddong.item.mapper;
+
+import com.ddong.item.pojo.Brand;
+import org.apache.ibatis.annotations.Insert;
+import org.apache.ibatis.annotations.Param;
+import tk.mybatis.mapper.common.Mapper;
+
+public interface BrandMapper extends Mapper<Brand> {
+    @Insert("insert into tb_category_brand values(#{cid},#{bid})")
+    void insertCategoryBrandMapping(@Param("cid") long cid,@Param("bid") Long id);
+
+
+
+}
